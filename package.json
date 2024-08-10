@@ -1,0 +1,15 @@
+{
+  "name": "cron-shiprocket-token-update",
+  "version": "1.0.0",
+  "description": "This is for updating shiprocket token in the env file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Meher",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
